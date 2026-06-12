@@ -200,7 +200,7 @@ Contributions, suggestions, and feature requests are welcome.
 
 ## 👨‍💻 Author
 
-**Saksham Yadav**
+Pallavi Avula
 
 Computer Science Engineering Student | Python Developer | Data & AI Enthusiast
 
@@ -210,7 +210,6 @@ Computer Science Engineering Student | Python Developer | Data & AI Enthusiast
 
 This project is licensed under the MIT License.
 
-Copyright © 2026 Saksham Yadav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
